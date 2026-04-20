@@ -13,6 +13,8 @@ This framework introduces a **severity-aware evaluation methodology**, enabling 
 
 The objective is to bridge the gap between **academic benchmarking and real-world risk assessment** in regulated domains.
 
+This framework is particularly relevant for **regulated environments where AI errors can lead to financial loss, regulatory violations, or patient harm**.
+
 ---
 
 ## ❗ Problem Statement
